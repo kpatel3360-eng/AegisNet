@@ -30,3 +30,10 @@ models/*
 
 # Environment Variables
 .env
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Temporary / diagnostic scripts
+scratch/
